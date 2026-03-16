@@ -63,11 +63,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="300" src="https://gifdb.com/images/high/vinland-saga-498-x-498-gif-1iwmz6177220l151.webp"  />
-</div>
-
 ###
 
 <picture>
@@ -77,3 +72,9 @@
 </picture>
 
 ###
+
+<div align="center">
+  <img height="300" src="https://gifdb.com/images/high/vinland-saga-498-x-498-gif-1iwmz6177220l151.webp"  />
+</div>
+
+
