@@ -64,14 +64,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucastofolalmeida/lucastofolalmeida/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucastofolalmeida/lucastofolalmeida/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucastofolalmeida/lucastofolalmeida/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img height="300" src="https://gifdb.com/images/high/vinland-saga-498-x-498-gif-1iwmz6177220l151.webp"  />
 </div>
