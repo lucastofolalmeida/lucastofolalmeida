@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/c4/a6/d7/c4a6d758d50d7e49d3919c25cea3c897.gif"  />
+<img align="right" height="150" src="https://gifdb.com/images/high/neymar-jr-football-funny-bleh-nhv3dmvzp0mhzyyg.gif"  />
 
 ###
 
@@ -22,9 +22,7 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">👩‍💻  Sobre mim:</h2>
+<h2 align="center">👩‍💻 Sobre mim:</h2>
 
 ###
 
@@ -39,15 +37,15 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
@@ -56,12 +54,26 @@
 
 ###
 
-<h2 align="center">🔥   My Stats :</h2>
+<h2 align="center">🔥   Meus status :</h2>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lucastofolalmeida&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucastofolalmeida/lucastofolalmeida/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucastofolalmeida/lucastofolalmeida/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucastofolalmeida/lucastofolalmeida/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img height="300" src="https://gifdb.com/images/high/vinland-saga-498-x-498-gif-1iwmz6177220l151.webp"  />
 </div>
 
 ###
